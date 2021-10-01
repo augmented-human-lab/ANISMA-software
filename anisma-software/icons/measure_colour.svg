@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/measure_colour</title>
+    <g id="Icon/measure_colour" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="State" x="0" y="0" width="48" height="48" rx="4"></rect>
+        <g id="Ruler" transform="translate(6.000000, 8.000000)">
+            <g id="Group-3" transform="translate(5.000000, 16.000000) rotate(-90.000000) translate(-5.000000, -16.000000) translate(-11.000000, 11.000000)">
+                <rect id="Rectangle" stroke="#12333D" stroke-width="2" fill="#FABC14" x="0" y="0" width="32" height="10" rx="2"></rect>
+                <rect id="Rectangle-Copy-9" fill="#12333D" x="4" y="3" width="2" height="7" rx="1"></rect>
+                <rect id="Rectangle-Copy-10" fill="#12333D" x="10" y="5" width="2" height="5" rx="1"></rect>
+                <rect id="Rectangle-Copy-11" fill="#12333D" x="16" y="3" width="2" height="7" rx="1"></rect>
+            </g>
+            <g id="Group-3">
+                <rect id="Rectangle" stroke="#12333D" stroke-width="2" fill="#FABC14" x="0" y="0" width="36" height="10" rx="2"></rect>
+                <rect id="Rectangle-Copy-9" fill="#12333D" x="5" y="3" width="2" height="7" rx="1"></rect>
+                <rect id="Rectangle-Copy-10" fill="#12333D" x="11" y="5" width="2" height="5" rx="1"></rect>
+                <rect id="Rectangle-Copy-11" fill="#12333D" x="17" y="3" width="2" height="7" rx="1"></rect>
+                <rect id="Rectangle-Copy-12" fill="#12333D" x="23" y="5" width="2" height="5" rx="1"></rect>
+                <rect id="Rectangle-Copy-13" fill="#12333D" x="29" y="3" width="2" height="7" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

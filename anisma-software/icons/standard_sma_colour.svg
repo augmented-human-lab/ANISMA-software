@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/standard_sma_colour</title>
+    <g id="icon/standard_sma_colour" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="State" x="0" y="0" width="48" height="48" rx="4"></rect>
+        <g id="SMA" transform="translate(5.000000, 20.000000)">
+            <path d="M8.63326257,6.01712599 C9.32416932,3.339042 10.1130818,2 11,2 C12.7561683,2 13,9 15,9 C17,9 17,2 19,2 C21,2 21,9 23,9 C25,9 25.2561683,2 27,2 C27.8866403,2 28.6787293,3.35720376 29.3762671,6.07161127" id="Path" stroke="#12333D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.004765, 5.500000) rotate(180.000000) translate(-19.004765, -5.500000) "></path>
+            <rect id="Rectangle" fill="#9473FF" transform="translate(5.000000, 5.000000) rotate(180.000000) translate(-5.000000, -5.000000) " x="0" y="0" width="10" height="10" rx="2"></rect>
+            <rect id="Rectangle-Copy" fill="#9473FF" transform="translate(33.000000, 5.000000) rotate(180.000000) translate(-33.000000, -5.000000) " x="28" y="0" width="10" height="10" rx="2"></rect>
+            <rect id="Rectangle" stroke="#12333D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.000000, 5.000000) rotate(180.000000) translate(-5.000000, -5.000000) " x="0" y="0" width="10" height="10" rx="2"></rect>
+            <rect id="Rectangle-Copy" stroke="#12333D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(33.000000, 5.000000) rotate(180.000000) translate(-33.000000, -5.000000) " x="28" y="0" width="10" height="10" rx="2"></rect>
+        </g>
+    </g>
+</svg>
