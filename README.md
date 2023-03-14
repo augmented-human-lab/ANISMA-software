@@ -1,4 +1,6 @@
 # ANISMA-software
+<img src="https://user-images.githubusercontent.com/62531877/225146327-58325651-7271-4761-96e6-4343f5e53d2e.png" width="80%" height="80%">
+
 
 ## How to run ANISMA software
 
@@ -26,3 +28,4 @@ python3 ./anisma-software/main.py
 
 5. You can now start designing anisma devices and test and preview their behaviour.
 If you have the hardware kit available you can connect the Arduino Controller Board, connect the ANISMA device to the Driver Board as indicated, and start the physical actuation from the Animate tab.
+
