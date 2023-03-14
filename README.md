@@ -1,4 +1,10 @@
 # ANISMA-software
+ANISMA Software is a software to design and test ANISMA Skin Deformation devices to provide haptic stimuli like pressure, stretch and motion on the skin.
+ANISMA Skin Deformation devices use Shape-Memory Alloys (SMAs) which contract like an artificial muscles when power is applied.
+Using ANISMA Software, devices can be designed and tested virtually. It is also suitable to learn the characteristics of SMAs. 
+
+In addition, ANISMA Software allows exporting the design and helps programming and actuating ANISMA devices that were created with the help of the ANISMA hardware kit. If you do not have the hardware kit available, ANISMA software can help you derive the design parameters for your implementation of SMAs.
+
 <img src="https://user-images.githubusercontent.com/62531877/225146327-58325651-7271-4761-96e6-4343f5e53d2e.png" width="80%" height="80%">
 
 
