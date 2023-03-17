@@ -1,3 +1,8 @@
+[ANISMA Main Repository](https://github.com/augmented-human-lab/ANISMA) 
+* **ANISMA Software** <-- You are here!
+* [ANISMA Controller Board](https://github.com/augmented-human-lab/ANISMA-controller-board)
+* [ANISMA Driver Board](https://github.com/augmented-human-lab/ANISMA-driver-board)
+
 # ANISMA Software
 ANISMA Software is a software to design and test ANISMA Skin Deformation devices to provide haptic stimuli like pressure, stretch and motion on the skin.
 ANISMA Skin Deformation devices use Shape-Memory Alloys (SMAs) which contract like an artificial muscles when power is applied.
